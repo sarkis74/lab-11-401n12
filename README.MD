@@ -1,5 +1,7 @@
+![CF](http://i.imgur.com/7v5ASc8.png)  
+
 # 401N12-Lab-11-Authentication
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+[![Build Status](https://travis-ci.org/sarkis74/lab-11-401n12.svg?branch=master)](https://travis-ci.org/sarkis74/lab-11-401n12)  
 =================================================
 
 ### Author: Sarkis Aghazarian
