@@ -4,7 +4,7 @@ process.env.STORAGE = 'mongo';
 
 const jwt = require('jsonwebtoken');
 
-const server = require('../src/app).server;
+const server = require('../src/app).server');
 const supergoose = require('./supergoose');
 
 const mockRequest = supergoose.server(server);
